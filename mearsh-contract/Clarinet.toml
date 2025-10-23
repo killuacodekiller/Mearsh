@@ -4,6 +4,10 @@ authors = []
 description = ""
 telemetry = true
 requirements = []
+[contracts.NFt-marketplace]
+path = "contracts/NFt-marketplace.clar"
+depends_on = []
+
 [contracts.content-ownership]
 path = "contracts/content-ownership.clar"
 depends_on = []
